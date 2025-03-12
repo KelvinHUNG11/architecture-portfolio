@@ -6,14 +6,14 @@ This repository showcases my past work in system architecture and workflow desig
 
 ## Showcase 1
 
-## System Design
+### System Design
 ![Sample system architecture design](https://github.com/user-attachments/assets/166e1e5b-e855-461b-9acc-ff057eb56270)
 
 - **Description**: A high-level architecture for a distributed system integrating a web portal, application server, and PostgreSQL database.
 - **Context**: Designed for an API-driven ML validation service.
 - **Tools**: Draw.io, exported as PNG.
 
-## Workflow Design
+### Workflow Design
 ![Sample_API_flow_design](https://github.com/user-attachments/assets/9a42dd7b-d188-4f12-9b83-e0020960a071)# architecture-portfolio
 
 - **Description**: Sequence diagram for an API request (`start_validate`), detailing interactions across web, app, and external servers.
