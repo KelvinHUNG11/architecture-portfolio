@@ -6,7 +6,7 @@ A showcase of my past work, key flow and parts are re-designed for privacy purpo
 This repository showcases my past work in system architecture and workflow design, highlighting my ability to design scalable APIs and integrate ML workflows. These assets were created as part of personal and collaborative projects, including a privacy-aware ML tool and a Node.js server.
 
 ## System Design
-![System Design](system_design.svg)
+![System Design]([system_design.svg](https://github.com/KelvinHUNG11/architecture-portfolio/blob/main/Sample%20system%20architecture%20design.png))
 
 - **Description**: A high-level architecture for a distributed system integrating a web portal, application server, and PostgreSQL database.
 - **Context**: Designed for an API-driven validation service (e.g., ARD285 `start_validate` flow).
