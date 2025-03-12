@@ -21,7 +21,8 @@ This repository showcases my past work in system architecture and workflow desig
 - **Tools**: Sequencediagram.org, exported as SVG.
 
 ### DB Schema Design
-![image](https://github.com/user-attachments/assets/d6a6f2ff-7a59-491b-9285-ad9e8d5021f7)
+<img width="760" alt="Screenshot 2025-03-12 at 2 34 07 PM" src="https://github.com/user-attachments/assets/4235db8e-4bfa-44f6-a414-55d414e66fdb" />
+
 
 - **Description**: DB schema design for the proposed system
 - **Context**: Revised schema for demonstration.
