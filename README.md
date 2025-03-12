@@ -20,5 +20,12 @@ This repository showcases my past work in system architecture and workflow desig
 - **Context**: Part of a real-time validation process tied to a JavaScript server.
 - **Tools**: Sequencediagram.org, exported as SVG.
 
+### DB Schema Design
+![image](https://github.com/user-attachments/assets/d6a6f2ff-7a59-491b-9285-ad9e8d5021f7)
+
+- **Description**: DB schema design for the proposed system
+- **Context**: Revised schema for demonstration.
+- **Tools**: PostgresDB, exported as PNG.
+
 ## Why This Matters
 These designs reflect my approach to modular, scalable systems—key for roles in backend development, ML integration, or privacy engineering. They’re part of a broader vision for a privacy-focused ML product developed with friends in Hong Kong.
