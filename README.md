@@ -23,10 +23,25 @@ This repository showcases my past work in system architecture and workflow desig
 ### DB Schema Design
 <img width="760" alt="Screenshot 2025-03-12 at 2 34 07 PM" src="https://github.com/user-attachments/assets/4235db8e-4bfa-44f6-a414-55d414e66fdb" />
 
-
 - **Description**: DB schema design for the proposed system
 - **Context**: Revised schema for demonstration.
 - **Tools**: PostgresDB, exported as PNG.
+
+## Showcase 2
+
+### System Design
+![occ_Items drawio_v2 drawio](https://github.com/user-attachments/assets/9a897229-2850-4f96-8076-83ff2cf84709)
+
+- **Description**: A high-level architecture for a distributed system integrating a web portal, Java sever, MySQL and some external services.
+- **Context**: Designed for post content analytics with ML service.
+- **Tools**: Draw.io, exported as PNG.
+
+### DB Schema Design
+<img width="747" alt="Screenshot 2025-03-12 at 3 11 36 PM" src="https://github.com/user-attachments/assets/1e244806-6446-473d-9016-e933a322f8ac" />
+
+- **Description**: DB schema design for the proposed system
+- **Context**: Revised schema for demonstration.
+- **Tools**: MySQL, exported as PNG.
 
 ## Why This Matters
 These designs reflect my approach to modular, scalable systems—key for roles in backend development, ML integration, or privacy engineering. They’re part of a broader vision for a privacy-focused ML product developed with friends in Hong Kong.
